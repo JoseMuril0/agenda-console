@@ -1,0 +1,9 @@
+100 murilo 4.00 10.00 Aprovado
+200 Geissy 5.00 4.00 Reprovado
+300 Italo 6.00 9.00 Aprovado
+500 murilo 4.40 8.80 Reprovado
+200 Antonio 2.00 10.00 Reprovado
+1000 Clediston 7.00 9.00 Aprovado
+2000 Maicom 6.00 9.00 Aprovado
+120 Jose 4.00 8.00 Reprovado
+10 JoseMurilo 10.00 2.00 Reprovado
